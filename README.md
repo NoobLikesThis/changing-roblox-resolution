@@ -11,4 +11,5 @@
 ![image](https://github.com/user-attachments/assets/143e7d82-9570-4d35-b1e3-f87fd81959c0)
 ### go to compatibility then press change high dpi settings then copy this:
 ![image](https://github.com/user-attachments/assets/de42dcde-bd62-431b-93a8-1c7e29c8ae27)
+### now roblox will look like u removed Anti-aliasing and set the game to 480p for some of yall.
 
